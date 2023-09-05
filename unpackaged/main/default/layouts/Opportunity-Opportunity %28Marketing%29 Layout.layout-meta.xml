@@ -23,14 +23,6 @@
                 <behavior>Edit</behavior>
                 <field>CampaignId</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Post_call_information__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Pre_call_details__c</field>
-            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -40,6 +32,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>LeadSource</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>State__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -89,6 +85,14 @@
         <editHeading>true</editHeading>
         <label>Additional Information</label>
         <layoutColumns>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Pre_call_details__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Post_call_information__c</field>
+            </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>MainCompetitors__c</field>
