@@ -33,6 +33,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>Name__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>Pre_call_details__c</field>
             </layoutItems>
         </layoutColumns>
