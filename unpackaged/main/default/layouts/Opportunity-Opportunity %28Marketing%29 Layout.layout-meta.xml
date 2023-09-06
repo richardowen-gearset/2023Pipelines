@@ -31,10 +31,6 @@
                 <behavior>Edit</behavior>
                 <field>Pre_call_details__c</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>State__c</field>
-            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -44,6 +40,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>LeadSource</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>State__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
