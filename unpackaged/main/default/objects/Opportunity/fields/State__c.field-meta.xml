@@ -3,7 +3,7 @@
     <fullName>State__c</fullName>
     <caseSensitive>false</caseSensitive>
     <complianceGroup>PII</complianceGroup>
-    <description>State or province for new opportunity</description>
+    <description>State, province or region for new opportunity</description>
     <externalId>false</externalId>
     <label>State</label>
     <length>250</length>
