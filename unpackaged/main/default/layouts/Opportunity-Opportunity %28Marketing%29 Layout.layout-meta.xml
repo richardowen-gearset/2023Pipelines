@@ -29,11 +29,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Pre_call_details__c</field>
+                <field>State__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>State__c</field>
+                <field>Pre_call_details__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
