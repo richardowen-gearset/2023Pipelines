@@ -368,6 +368,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Book__c.Price__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>BusinessBrand.OrgId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -848,6 +853,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Opportunity.Hot_lead__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Opportunity.IsPrivate</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -869,6 +879,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.OrderNumber__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Opportunity.Pre_call_details__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -3082,6 +3097,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>AuthorizationFormText-Authorization Form Text Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Book__c-Book Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>BusinessBrand-Business Brand Layout</layout>
