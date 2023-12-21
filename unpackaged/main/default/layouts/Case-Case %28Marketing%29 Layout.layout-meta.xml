@@ -87,6 +87,10 @@
                 <behavior>Edit</behavior>
                 <field>Reason</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Primary_contact__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -206,7 +210,7 @@
         <customLabel>false</customLabel>
         <detailHeading>false</detailHeading>
         <editHeading>false</editHeading>
-        <layoutColumns/>
+        <layoutColumns />
         <style>CustomLinks</style>
     </layoutSections>
     <quickActionList>
