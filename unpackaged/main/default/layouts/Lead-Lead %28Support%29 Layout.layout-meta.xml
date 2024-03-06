@@ -33,6 +33,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>Hot_lead__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>State__c</field>
             </layoutItems>
         </layoutColumns>
