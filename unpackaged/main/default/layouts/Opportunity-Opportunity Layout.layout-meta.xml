@@ -41,6 +41,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>Secondary_Contact__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>Pre_call_details__c</field>
             </layoutItems>
             <layoutItems>
