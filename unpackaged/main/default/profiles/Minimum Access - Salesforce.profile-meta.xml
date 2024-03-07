@@ -238,11 +238,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Opportunity.Hot_lead__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Opportunity.Pre_call_details__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -251,9 +246,14 @@
         <field>Opportunity.Secondary_Contact__c</field>
         <readable>true</readable>
       </fieldPermissions>
-      <fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.State__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Opportunity.Hot_lead__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
