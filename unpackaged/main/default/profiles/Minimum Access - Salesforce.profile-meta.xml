@@ -246,7 +246,12 @@
         <field>Lead.Hot_lead__c</field>
         <readable>true</readable>
       </fieldPermissions>
-      <fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Lead.Post_call_steps__c</field>
+        <readable>true</readable>
+      </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Lead.State__c</field>
         <readable>true</readable>
