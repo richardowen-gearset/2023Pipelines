@@ -3,6 +3,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Location__c</field>
+        <readable>true</readable>
+      </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>AppointmentInvitation.AppointmentTopicId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -238,10 +243,15 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Lead.Hot_lead__c</field>
+        <readable>true</readable>
+      </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Lead.Post_call_steps__c</field>
         <readable>true</readable>
       </fieldPermissions>
-      <fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Lead.State__c</field>
         <readable>true</readable>
@@ -251,6 +261,11 @@
         <field>Lead.Country__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Lead.Region__c</field>
+        <readable>true</readable>
+      </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.CampaignId</field>
